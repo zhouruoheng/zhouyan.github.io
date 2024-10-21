@@ -9,10 +9,9 @@ My current research interests include AI4DB, Data Mining.
 
 ## Research Interests
 
-- **Large Language Models**, especially on the capabilities of large language models (LLMs) for reasoning, planning, and execution, focusing on the controllability, interpretability, and efficiency of LLMs. Self-reflective, self-improving and self-evolving LLMs are also of interest.
-- **AI Agents**, especially on [autonomous agents]((https://lilianweng.github.io/posts/2023-06-23-agent/)), multi-agent systems, and human-agent collaboration, focusing on the abilities of agents for reasoning, decision-making, and interaction.
-- **Multimodel Learning**, especially on multimodal pretraining and multimodal reasoning, focusing on the fusion of vision and language.
-- **Knowledge Computing**, especially on the colaboration of external knowledge and large language models, focusing on the knowledge reasoning and evolution.
+- **Recommender Systems (Recsys)**: My research in recommender systems primarily revolves around coarse ranking and fine ranking methodologies. I am particularly interested in developing effective coarse ranking algorithms that can quickly filter large item sets to identify promising candidates.
+- **AI for Databases (AI4DB)**: I'm interested in exploring the intersection of artificial intelligence and database management systems. Currently, I am closely collaborating with AWS and MIT CSAIL on the workload synthesis project.
+- **Natural Language Processing (NLP) - Model Quantization**: My research interests include model quantization techniques that enable the deployment of large-scale NLP models on resource-constrained devices. I am exploring methods to reduce the model size and computational requirements while maintaining performance. This includes investigating techniques such as weight pruning, quantization-aware training, and knowledge distillation to create efficient models that can be applied in real-time applications.
 
 ## News
 
