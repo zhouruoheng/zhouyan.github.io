@@ -16,7 +16,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="hhttps://arxiv.org/abs/2306.07209">Self-supervised transformer-based pre-training method with General Plant Infection dataset</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2306.07209">Self-supervised transformer-based pre-training method with General Plant Infection dataset</a></div>
     <div class="author"><strong>Zhengle Wang</strong>, Ruifeng Wang, Minjuan Wang, Tianyun Lai, Man Zhang</div>
     <div class="periodical"><em>PRCV, 2024.</em></div>
     <div class="links">
