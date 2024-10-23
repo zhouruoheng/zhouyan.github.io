@@ -3,7 +3,8 @@
 
 
 
-Wang Zhengle, currently studying at China Agricultural University, in his junior year. He is currently a research assistant at the School of Information at Renmin University of China, under the supervision of Professor [Ju Fan](http://iir.ruc.edu.cn/~fanj)
+I'm currently a gruated student at China Agricultural University. 
+I'm also very fortunate to closely work with Professor [Ju Fan](http://iir.ruc.edu.cn/~fanj) as a research assistant.
 Previously interned in the search and recommendation algorithm team at the Poizon Community.
 My current research interests include AI4DB, Data Mining.
 
