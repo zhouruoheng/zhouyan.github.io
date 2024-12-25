@@ -4,8 +4,8 @@
 
 
 I'm currently a gruated student at China Agricultural University. 
-I'm also very fortunate to closely work with Professor [Ju Fan](http://iir.ruc.edu.cn/~fanj) as a research assistant.
-Previously interned in the search and recommendation algorithm team at the Poizon Community.
+I'm also very fortunate to closely work with Professor [Ju Fan](http://iir.ruc.edu.cn/~fanj) as a research intern.
+Previously I interned in the search and recommendation algorithm team at the Poizon Community.
 My current research interests include AI4DB, Data Mining.
 
 ## Research Interests
